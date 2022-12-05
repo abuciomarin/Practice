@@ -1,0 +1,32 @@
+ 
+ /*tag selector*/
+
+ body{
+        background-color:#E5D9B6;
+    }
+
+    hr{
+        
+        border-style:none;
+        border-top-style:dotted ;
+        border-color: #A4BE7B;
+        border-width: 6px;
+        width: 15%;
+    }
+   
+    h1{ 
+        color: #61764B;
+
+    }
+    h3{
+        color: #61764B;
+    }
+     /*class selector*/
+
+    .kermit {
+        border-radius: 30%;
+      }
+    .friend {
+        border-radius: 50%;
+
+      }
